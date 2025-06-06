@@ -45,13 +45,6 @@ Drag/
 - ⚡ Real-time feedback
 - 🎯 Clear error messages
 
-## 💻 Browser Support
-
-Works in all modern browsers that support:
-- 📁 HTML5 File API
-- 🎯 HTML5 Drag and Drop API
-- 📖 FileReader API
-
 ## 🎨 Customization
 
 You can customize:
