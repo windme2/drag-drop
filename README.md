@@ -1,4 +1,4 @@
-# Drag & Drop File Uploader 📄
+# Drag & Drop Image Uploader 📄
 
 A modern, intuitive file upload interface that makes sharing images as simple as dragging and dropping! Perfect for web applications requiring image uploads.
 
@@ -13,7 +13,7 @@ A modern, intuitive file upload interface that makes sharing images as simple as
 ## 📁 Project Structure
 
 ```
-Drag/
+Drag-Drop/
 ├── index.html     # Main HTML file
 ├── style.css      # Modern styling and animations
 ├── script.js      # Core functionality
