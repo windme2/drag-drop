@@ -10,22 +10,6 @@ A modern, intuitive file upload interface that makes sharing images as simple as
 - 📁 FileReader API
 - 🎯 Drag and Drop API
 
-## 📁 Project Structure
-
-```
-Drag-Drop/
-├── index.html     # Main HTML file
-├── style.css      # Modern styling and animations
-├── script.js      # Core functionality
-└── README.md      # Documentation
-```
-
-## 🚀 Setup
-
-1. 📥 Clone the repository
-2. 📂 Open `index.html` in your browser
-3. 🖼️ Start uploading your images!
-
 ## ⭐ Features
 
 ### 📸 Image Upload
